@@ -333,10 +333,10 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
-"@nousantx/tenoxui-styler@^0.1.4":
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/@nousantx/tenoxui-styler/-/tenoxui-styler-0.1.4.tgz#06190042b4c32017a4d7e004313299b7c279f1c4"
-  integrity sha512-Ymjk44z8zoffSVM6CYrz0GamIsVudNJs/f2y4QeWrO6ecblVfGusXgXynziiAaSOyb9wCGTCr2XsCFYbY17QEA==
+"@nousantx/tenoxui-styler@^0.1.5":
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/@nousantx/tenoxui-styler/-/tenoxui-styler-0.1.5.tgz#bc79f5cd5c1fc1d4a90179ee159bbec33d71662a"
+  integrity sha512-18oKioqoy4dSgsXhij2R0d/I+gWefeqEZkalJUyxVLuoo9VHNUxj7xTROgnvTS1tTvzb9TmdqrHKeDQMhjW18Q==
 
 "@nousantx/tenoxui-utility-styles@^0.1.1":
   version "0.1.1"

@@ -12,7 +12,7 @@
     "preact": "^10.25.0"
   },
   "devDependencies": {
-    "@nousantx/tenoxui-styler": "^0.1.4",
+    "@nousantx/tenoxui-styler": "^0.1.5",
     "@nousantx/tenoxui-utility-styles": "^0.1.1",
     "@preact/preset-vite": "^2.9.1",
     "@tenoxui/property": "^1.4.5",
