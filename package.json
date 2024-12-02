@@ -1,0 +1,22 @@
+{
+  "name": "react",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "preact": "^10.25.0"
+  },
+  "devDependencies": {
+    "@nousantx/tenoxui-styler": "^0.1.4",
+    "@nousantx/tenoxui-utility-styles": "^0.1.1",
+    "@preact/preset-vite": "^2.9.1",
+    "@tenoxui/property": "^1.4.5",
+    "typescript": "~5.6.2",
+    "vite": "^6.0.1"
+  }
+}
